@@ -2,6 +2,7 @@
 
 ### Windows ###
 # Windows thumbnail cache files
+FileToIgnore.txt
 Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
