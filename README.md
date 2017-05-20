@@ -11,3 +11,5 @@ First making changes to the README file and then I will commit the changes.
 ## Medium Header ##
 
 ### Small Header ###
+
+Making changes on github and pull down to local copy.
